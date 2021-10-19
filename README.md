@@ -25,4 +25,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+Week: 12 October, 2021 - 18 October, 2021
+
+Other   17 hrs 7 mins   █████████████████████████   100.00 % 
+```
+<!--END_SECTION:waka-->
