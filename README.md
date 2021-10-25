@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ```text
 Week: 18 October, 2021 - 24 October, 2021
 
-Other      23 hrs 1 min    ████████████████▒░░░░░░░░   64.95 % 
-C++        10 hrs 33 mins  ███████▒░░░░░░░░░░░░░░░░░   29.79 % 
-Python     1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-JSON       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Other      23 hrs 19 mins  ████████████████▒░░░░░░░░   65.25 % 
+C++        10 hrs 33 mins  ███████▒░░░░░░░░░░░░░░░░░   29.54 % 
+Python     1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+JSON       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
