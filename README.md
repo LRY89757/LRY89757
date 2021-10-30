@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2021 - 28 October, 2021
+Week: 23 October, 2021 - 29 October, 2021
 
 Other      30 hrs 3 mins   ███████████████████▓░░░░░   78.10 % 
 C++        4 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
