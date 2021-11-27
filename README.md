@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ```text
 Week: 20 November, 2021 - 26 November, 2021
 
-C++     5 hrs 39 mins   ████████████████████████▓   98.32 % 
-C       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Other   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+C++     4 hrs 43 mins   ████████████████████████▒   97.99 % 
+C       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Other   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 <!--END_SECTION:waka-->
