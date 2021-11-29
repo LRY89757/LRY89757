@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [mmdet && project of fenghuo](https://lry89757.github.io/2021/11/09/mmdet-project-of-fenghuo/)
 - [Code Trace of MMDETECTION](https://lry89757.github.io/2021/10/16/code-trace-of-mmdetection/)
 - [Road Crack of exploration](https://lry89757.github.io/2021/10/04/lu-mian-lie-feng-shu-ju-ji-diao-yan/)
 - [Self Attention Is All My Need](https://lry89757.github.io/2021/10/13/self-attention-is-all-my-need/)
