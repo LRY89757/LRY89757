@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 ```text
 Week: 27 November, 2021 - 03 December, 2021
 
-Python     16 hrs 5 mins   ████████████████▓░░░░░░░░   66.77 % 
-Markdown   5 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.22 % 
-Other      1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-JSON       50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-C++        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Python     16 hrs 7 mins   ████████████████░░░░░░░░░   64.55 % 
+Markdown   6 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.78 % 
+Other      1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+JSON       50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+C++        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
