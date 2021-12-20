@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 ```text
 Week: 13 December, 2021 - 19 December, 2021
 
-Python     3 hrs 33 mins   ██████████████▒░░░░░░░░░░   57.61 % 
-C          1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Markdown   59 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Other      18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Text       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Python     1 hr 58 mins    █████████░░░░░░░░░░░░░░░░   36.12 % 
+C          1 hr 46 mins    ████████░░░░░░░░░░░░░░░░░   32.39 % 
+Other      1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Markdown   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 ```
 <!--END_SECTION:waka-->
