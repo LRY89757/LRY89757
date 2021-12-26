@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
 Other      1 hr 54 mins    █████████▓░░░░░░░░░░░░░░░   38.90 % 
 C          1 hr 46 mins    █████████░░░░░░░░░░░░░░░░   36.07 % 
