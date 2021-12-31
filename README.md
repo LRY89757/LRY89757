@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
 Other    14 mins         ███████████████████████▒░   93.00 % 
 Python   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
