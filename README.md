@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 ```text
 Week: 09 January, 2022 - 15 January, 2022
 
-Markdown   1 hr 40 mins    ████████████████▒░░░░░░░░   65.34 % 
-Python     47 mins         ███████▓░░░░░░░░░░░░░░░░░   30.64 % 
-Other      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Markdown   2 hrs 18 mins   █████████████████░░░░░░░░   67.71 % 
+Python     47 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.04 % 
+Other      18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 ```
 <!--END_SECTION:waka-->
