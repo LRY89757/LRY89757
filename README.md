@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2022 - 22 January, 2022
+Week: 17 January, 2022 - 23 January, 2022
 
 Python       2 hrs 56 mins   ████████████░░░░░░░░░░░░░   48.56 % 
 Markdown     1 hr 46 mins    ███████▒░░░░░░░░░░░░░░░░░   29.23 % 
