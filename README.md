@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <!-- - [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
 <!-- BLOG-POST-LIST:END -->
 
-<!--  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--
 ```text
 Week: 21 January, 2022 - 27 January, 2022
 
@@ -33,5 +34,6 @@ C++        47 mins         █████████████████�
 JSON       9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
-<!--END_SECTION:waka--> -->
+-->
+<!--END_SECTION:waka-->
 
