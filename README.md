@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HUST.DIAN.AI, AIpi.
 - 🌱 I’m currently learning Python, Computer Vision.
-- 👯 I’m collaborating on AI with Yibin Wang.
+- 👯 I’m collaborating on AI with [Yibin Wang](https://github.com/flyleeee), **A Dalao**!.
 - 🤔 I’m looking for help with Transformer.
 - 💬 Ask me about AI
 - 📫 How to reach me: lry89757@gmail.com
