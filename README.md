@@ -27,11 +27,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
+Week: 27 February, 2022 - 05 March, 2022
 
-C++        47 mins         ████████████████████▒░░░░   80.97 % 
-JSON       9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Python       18 hrs 38 mins  █████████████████████░░░░   84.05 % 
+Markdown     1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+JSON         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Git Config   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 <!--END_SECTION:waka-->
 
