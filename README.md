@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 March, 2022 - 28 March, 2022
+Week: 23 March, 2022 - 29 March, 2022
 
 Python     7 hrs 39 mins   █████████▒░░░░░░░░░░░░░░░   37.58 % 
 Assembly   3 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.08 % 
