@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HUST.DIAN.AI, AIpi.
-- 🌱 I’m currently learning Python, Computer Vision.
+- 🌱 I’m currently learning Python, C++, Java, Computer Vision and Adversarial Attack(Backdoor Learning).
 - 👯 I’m collaborating on AI with [Yibin Wang](https://github.com/flyleeee), **A Dalao**!.
 - 🤔 I’m looking for help with Transformer.
 - 💬 Ask me about AI
