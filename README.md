@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 April, 2022 - 09 April, 2022
+Week: 04 April, 2022 - 10 April, 2022
 
 Python   15 hrs 1 min    ███████████▒░░░░░░░░░░░░░   44.93 % 
 Other    6 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
