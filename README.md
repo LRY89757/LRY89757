@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ```text
 Week: 07 April, 2022 - 13 April, 2022
 
-Python     18 hrs 6 mins   █████████████████▒░░░░░░░   68.89 % 
-Assembly   2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Other      2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-C++        1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Bash       47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Python     13 hrs 14 mins  ██████████████▓░░░░░░░░░░   58.22 % 
+C++        3 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Assembly   2 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Java       1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Other      1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 <!--END_SECTION:waka-->
 
