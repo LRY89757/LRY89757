@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 <!-- - [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
 <!-- BLOG-POST-LIST:END -->
 
+My idea coding state：
+![image](https://user-images.githubusercontent.com/77330637/163973410-badc6966-d278-4323-9a53-8cd451b1017b.png)
+
 <!--START_SECTION:waka-->
 ```text
 Week: 12 April, 2022 - 18 April, 2022
