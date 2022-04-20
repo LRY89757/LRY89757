@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 My idea coding state：
 ![image](https://user-images.githubusercontent.com/77330637/163973410-badc6966-d278-4323-9a53-8cd451b1017b.png)
+![image](https://user-images.githubusercontent.com/77330637/164245602-1648badd-82c5-4075-9b56-e67e85489e32.png)
+
 
 <!--START_SECTION:waka-->
 ```text
