@@ -37,7 +37,7 @@ My idea coding state：
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 April, 2022 - 29 April, 2022
+Week: 24 April, 2022 - 30 April, 2022
 
 C++        11 hrs 26 mins  ██████████░░░░░░░░░░░░░░░   40.40 % 
 Cuda       4 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.57 % 
