@@ -3,7 +3,7 @@
 <!--
 **LRY89757/LRY89757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on HUST.DIAN.AI, AIpi.
 - 🌱 I’m currently learning Cuda, C++, Computer Organization and Adversarial Attack(Backdoor Learning) about Transformer.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- - [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
 <!-- BLOG-POST-LIST:END -->
 
-My idea coding state：
+<!-- My idea coding state： -->
 <!-- ![image](https://user-images.githubusercontent.com/77330637/163973410-badc6966-d278-4323-9a53-8cd451b1017b.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/77330637/165716037-78784376-54b6-4681-84c5-c904dbb9b88a.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/77330637/164719279-7764430c-7894-4e6e-bd99-542a1ceb7f5c.png) -->
