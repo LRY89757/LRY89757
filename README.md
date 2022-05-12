@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 May, 2022 - 10 May, 2022
+Week: 05 May, 2022 - 11 May, 2022
 
 C++        5 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   41.25 % 
 Python     4 hrs 37 mins   █████████░░░░░░░░░░░░░░░░   36.25 % 
