@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 May, 2022 - 18 May, 2022
+Week: 13 May, 2022 - 19 May, 2022
 
 C++        14 hrs 29 mins  ████████████████░░░░░░░░░   64.16 % 
 Markdown   3 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.98 % 
