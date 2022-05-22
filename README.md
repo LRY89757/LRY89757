@@ -5,7 +5,7 @@
 -->
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on HUST.DIAN.AI, AIpi.
+- 🔭 I’m currently working on Heptagonhust HUST.DIAN.AI and AIpi.
 - 🌱 I’m currently learning Cuda, C++, Computer Organization and Adversarial Attack(Backdoor Learning) about Transformer.
 - 👯 I’m collaborating on AI with [Yibin Wang](https://github.com/flyleeee), **A Dalao**!.
 - 🤔 I’m looking for help with Transformer, Multi-thread, HPC.
