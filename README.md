@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 May, 2022 - 27 May, 2022
+Week: 22 May, 2022 - 28 May, 2022
 
 C            3 hrs 49 mins   ███████████▒░░░░░░░░░░░░░   45.82 % 
 C++          2 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.89 % 
