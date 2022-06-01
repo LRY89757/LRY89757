@@ -26,6 +26,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- My idea coding state： -->
+<!-- ![image](https://user-images.githubusercontent.com/77330637/171345862-d7393b9a-e2b2-4c85-bd42-13389626d384.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/77330637/163973410-badc6966-d278-4323-9a53-8cd451b1017b.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/77330637/165716037-78784376-54b6-4681-84c5-c904dbb9b88a.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/77330637/164719279-7764430c-7894-4e6e-bd99-542a1ceb7f5c.png) -->
