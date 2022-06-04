@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on HUST.DIAN.AI(Leader), [Heptagonhust](https://github.com/heptagonhust)(**hua shui**) and AIpi(**bai lan**).
 - 🌱 I’m currently learning Cuda, C++, Computer System(TVM etc) and Adversarial Attack(Backdoor Learning) about Transformer.
 - 👯 I’m collaborating on AI with [Yibin Wang](https://github.com/flyleeee), **A Dalao**!.
-- 🤔 I’m looking for help with Transformer, Multi-thread, HPC, TVM, MLIR.
+- 🤔 I’m looking for help with Transformer, HPC, TVM, MLIR.
 - 💬 Ask me about AI
 - 📫 How to reach me: lry89757@gmail.com
 <!-- - 😄 Pronouns: ... -->
