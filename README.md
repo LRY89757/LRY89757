@@ -40,7 +40,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 June, 2022 - 17 June, 2022
+Week: 12 June, 2022 - 18 June, 2022
 
 Assembly   4 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.34 % 
 Python     2 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
