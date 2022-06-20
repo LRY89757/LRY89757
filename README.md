@@ -40,7 +40,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 June, 2022 - 18 June, 2022
+Week: 13 June, 2022 - 19 June, 2022
 
 Assembly   4 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.70 % 
 C++        4 hrs 24 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.47 % 
