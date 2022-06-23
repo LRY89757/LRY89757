@@ -40,7 +40,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 June, 2022 - 21 June, 2022
+Week: 16 June, 2022 - 22 June, 2022
 
 C++          4 hrs 31 mins   █████████████▒░░░░░░░░░░░   52.87 % 
 Markdown     1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 % 
