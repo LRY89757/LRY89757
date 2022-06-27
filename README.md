@@ -40,7 +40,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 June, 2022 - 25 June, 2022
+Week: 20 June, 2022 - 26 June, 2022
 
 Markdown   1 hr 6 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.55 % 
 Assembly   57 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
