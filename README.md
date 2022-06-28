@@ -40,7 +40,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 June, 2022 - 26 June, 2022
+Week: 21 June, 2022 - 27 June, 2022
 
 Cuda       4 hrs 26 mins   ███████████▒░░░░░░░░░░░░░   45.56 % 
 Markdown   1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
