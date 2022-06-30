@@ -40,7 +40,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 June, 2022 - 28 June, 2022
+Week: 23 June, 2022 - 29 June, 2022
 
 Cuda       4 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   30.05 % 
 C++        4 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.31 % 
