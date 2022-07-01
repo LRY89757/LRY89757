@@ -36,6 +36,8 @@
 <!-- ![image](https://user-images.githubusercontent.com/77330637/172780354-3858ffca-c3b5-4966-ba8e-4647b4e9d00b.png) -->
 <!-- <img width="1010" alt="image" src="https://user-images.githubusercontent.com/77330637/165522213-55701801-69f1-43c6-a412-e0578feeb5d4.png"> -->
 
+<!--ncnn新版本发布，亮点自寻QAQ👏：![image](https://user-images.githubusercontent.com/77330637/176847154-83e7f727-c406-4f81-aaee-6a049edd0f76.png)-->
+
 
 
 <!--START_SECTION:waka-->
