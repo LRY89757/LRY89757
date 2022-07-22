@@ -43,7 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 July, 2022 - 20 July, 2022
+Week: 15 July, 2022 - 21 July, 2022
 
 C++        40 hrs 27 mins  ██████████████████░░░░░░░   71.59 % 
 Python     9 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
