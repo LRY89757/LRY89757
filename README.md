@@ -5,7 +5,7 @@
 -->
 <!-- Here are some ideas to get you started: -->
 
-- ✨ I'm a second-year undergraduate student(CS) at Huazhong University of Science and Technology.
+- ✨ I'm a third-year undergraduate student(CS) at Huazhong University of Science and Technology.
 - 🔭 I’m currently working on HUST.DIAN.AI(Leader), AIpi(Writing my papers), [Heptagonhust](https://github.com/heptagonhust)(Learning HPC).
 - 🌱 I’m currently learning Cuda, C++, Computer System(TVM etc) and Adversarial Attack(Backdoor Learning) about Transformer.
 - 👯 I’m collaborating on AI with [Yibin Wang](https://github.com/flyleeee), **A Dalao**!.
