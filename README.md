@@ -43,7 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2022 - 10 September, 2022
+Week: 05 September, 2022 - 11 September, 2022
 
 Markdown   4 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   39.80 % 
 C++        3 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.25 % 
