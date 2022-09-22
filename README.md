@@ -62,7 +62,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 September, 2022 - 20 September, 2022
+Week: 15 September, 2022 - 21 September, 2022
 
 Python     9 hrs 10 mins   ██████████▓░░░░░░░░░░░░░░   42.75 % 
 Markdown   5 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.86 % 
