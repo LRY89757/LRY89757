@@ -63,7 +63,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2022 - 23 September, 2022
+Week: 18 September, 2022 - 24 September, 2022
 
 Python     6 hrs 13 mins   █████████░░░░░░░░░░░░░░░░   36.17 % 
 C++        4 hrs 39 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.14 % 
