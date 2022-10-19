@@ -65,7 +65,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 October, 2022 - 17 October, 2022
+Week: 12 October, 2022 - 18 October, 2022
 
 C++        14 hrs 56 mins  █████████████░░░░░░░░░░░░   52.63 % 
 Markdown   4 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 % 
