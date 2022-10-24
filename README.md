@@ -67,7 +67,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2022 - 22 October, 2022
+Week: 17 October, 2022 - 23 October, 2022
 
 C++        13 hrs 36 mins  ██████████▓░░░░░░░░░░░░░░   42.14 % 
 Python     6 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.88 % 
