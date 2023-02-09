@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - ✨ I'm a third-year undergraduate student(CS) at Huazhong University of Science and Technology.
-- 🔭 I’m currently working on HUST.DIAN.AI(Leader), AIpi(Writing my papers), [Heptagonhust](https://github.com/heptagonhust)(Learning HPC).
+- 🔭 I’m currently working on HUST.DIAN.AI(Leader), AIpi(bailan), [Heptagonhust](https://github.com/heptagonhust)(Learning HPC).
 - 🌱 I’m currently learning Cuda, C++, AI Compiler(TVM,MLIR etc) and Adversarial Attack(Backdoor Learning) about Transformer.
 - 👯 I’m collaborating on AI with [Yibin Wang](https://github.com/flyleeee), **A Dalao**!.
 - 🤔 I’m looking for help with Transformer, HPC, TVM, MLIR.
