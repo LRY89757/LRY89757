@@ -4,13 +4,16 @@
 **LRY89757/LRY89757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- Here are some ideas to get you started: -->
-
-- ✨ I'm a third-year undergraduate student(CS) at Huazhong University of Science and Technology.
-- 🔭 I’m currently working on HUST.DIAN.AI(Leader), AIpi(bailan), [Heptagonhust](https://github.com/heptagonhust)(Learning HPC).
-- 🌱 I’m currently learning Cuda, C++, AI Compiler(TVM,MLIR etc) and Adversarial Attack(Backdoor Learning) about Transformer.
-- 👯 I’m collaborating on AI with [Yibin Wang](https://github.com/flyleeee), **A Dalao**!.
-- 🤔 I’m looking for help with Transformer, HPC, TVM, MLIR.
-- 💬 Ask me about AI
+- ✨ AI HPC Compiler
+- 👯 Junior@HUST, intern@Sensetime, optimizing the backend of llvm now.
+- 🔭 Looking for chances of **Summer research experience in US or Singpore onsite**. I can cover the expenses myself, no additional funding is required, but any assistance in the form of a fund would be greatly appreciated.
+- 🌱 You're welcome to visit my personal page https://lry89757.github.io/
+<!-- - ✨ I'm a third-year undergraduate student(CS) at Huazhong University of Science and Technology. -->
+<!-- - 🔭 I’m currently working on HUST.DIAN.AI(Leader), AIpi(bailan), [Heptagonhust](https://github.com/heptagonhust)(Learning HPC). -->
+<!-- - 🌱 I’m currently learning Cuda, C++, AI Compiler(TVM,MLIR etc) and Adversarial Attack(Backdoor Learning) about Transformer. -->
+<!-- - 👯 I’m collaborating on AI with [Yibin Wang](https://github.com/flyleeee), **A Dalao**!. -->
+<!-- - 🤔 I’m looking for help with Transformer, HPC, TVM, MLIR. -->
+<!-- - 💬 Ask me about AI -->
 - 📫 How to reach me: lry89757@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
