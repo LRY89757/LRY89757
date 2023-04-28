@@ -69,14 +69,6 @@
 
 
 <!--START_SECTION:waka-->
-```text
-Week: 17 October, 2022 - 23 October, 2022
 
-C++        14 hrs 18 mins  ██████████░░░░░░░░░░░░░░░   40.32 % 
-Python     8 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-Markdown   5 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-CMake      2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Bash       2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-```
 <!--END_SECTION:waka-->
 
