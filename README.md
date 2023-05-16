@@ -5,7 +5,7 @@
 -->
 <!-- Here are some ideas to get you started: -->
 - ✨ AI HPC Compiler
-- 👯 Junior@HUST, intern@Sensetime, optimizing the backend of llvm now.
+- 👯 Third-year Undergraduate@HUST, intern@Sensetime, optimizing the backend of llvm now.
 - 🔭 Looking for chances of **Summer research experience in US or Singpore onsite, about DL Compiler**. I can cover the expenses myself, but any assistance in the form of a fund would be greatly appreciated.
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io/
 <!-- - ✨ I'm a third-year undergraduate student(CS) at Huazhong University of Science and Technology. -->
