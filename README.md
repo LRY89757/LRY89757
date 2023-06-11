@@ -65,9 +65,9 @@
 <!-- ![4}@OG5 TVO)75$3X5SWWZUS](https://user-images.githubusercontent.com/77330637/197226656-38c5b997-265c-494a-b55b-5374de7851f3.png) -->
 
 <!--ncnn新版本发布，亮点自寻QAQ👏：![image](https://user-images.githubusercontent.com/77330637/176847154-83e7f727-c406-4f81-aaee-6a049edd0f76.png)-->
-![image](https://github.com/LRY89757/LRY89757/assets/77330637/e2f5b364-cae2-4317-a5c3-3e2deaf1acda)
+<!-- ![image](https://github.com/LRY89757/LRY89757/assets/77330637/e2f5b364-cae2-4317-a5c3-3e2deaf1acda) -->
 
-![image](https://github.com/LRY89757/LRY89757/assets/77330637/30d5b91a-e0dd-4435-bf9c-56fcf8c6003f)
+<!-- ![image](https://github.com/LRY89757/LRY89757/assets/77330637/30d5b91a-e0dd-4435-bf9c-56fcf8c6003f) -->
 
 
 <!--START_SECTION:waka-->
