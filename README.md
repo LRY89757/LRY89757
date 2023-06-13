@@ -55,6 +55,15 @@
 
 <!-- ![image](https://user-images.githubusercontent.com/77330637/191393371-acc41f66-3bd5-46e5-9aae-d6503151b13f.png) -->
 
+<!-- ![2023-05-27-16-27-30-image](https://github.com/LRY89757/LRY89757/assets/77330637/8c2347fb-d592-48a2-aab5-c872c86cd887) -->
+<!-- ![2023-05-27-16-46-32-image](https://github.com/LRY89757/LRY89757/assets/77330637/4745ab1c-0c16-4bd6-b0ab-3fe3c0db5537) -->
+<!-- ![2023-05-31-15-14-33-image](https://github.com/LRY89757/LRY89757/assets/77330637/9be80da2-aedb-4d3b-950a-3ef4eb84df4c) -->
+<!-- ![2023-05-27-21-19-13-image](https://github.com/LRY89757/LRY89757/assets/77330637/12777a12-1202-4118-ace4-94c1b2db1aa3) -->
+<!-- ![2023-05-27-18-14-53-image](https://github.com/LRY89757/LRY89757/assets/77330637/df6f5f61-3e44-4800-b1f0-e832d4a4ca96) -->
+<!-- ![2023-05-27-22-34-54-image](https://github.com/LRY89757/LRY89757/assets/77330637/830af65f-d945-4685-a812-a0da1607db56) -->
+<!-- ![2023-05-28-17-27-58-image](https://github.com/LRY89757/LRY89757/assets/77330637/2f34e511-cfcd-44e3-9e76-725b72dfa839) -->
+<!-- <img width="1145" alt="CoefficientsBroadcasting" src="https://github.com/LRY89757/LRY89757/assets/77330637/d17af0f0-e562-4296-b694-0e47e8a3822a"> -->
+
 
 <!-- ![image](https://user-images.githubusercontent.com/77330637/191886080-7fcd7310-0dce-4698-b2db-2792f9fd7465.png) -->
 
