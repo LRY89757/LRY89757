@@ -6,15 +6,17 @@
 <!-- Here are some ideas to get you started: -->
 - ✨ AI HPC Compiler
 - 👯 Third-year Undergraduate@HUST, intern@Sensetime, optimizing the backend of llvm now.
-<!-- - 🔭 Looking for chances of **Summer research experience in US or Singpore onsite, about DL Compiler**. I can cover the expenses myself, but any assistance in the form of a fund would be greatly appreciated. -->
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io/
+- 📫 How to reach me: lry89757@gmail.com
+<!-- - 🔭 Looking for chances of **Summer research experience in US or Singpore onsite, about DL Compiler**. I can cover the expenses myself, but any assistance in the form of a fund would be greatly appreciated. -->
+
 <!-- - ✨ I'm a third-year undergraduate student(CS) at Huazhong University of Science and Technology. -->
 <!-- - 🔭 I’m currently working on HUST.DIAN.AI(Leader), AIpi(bailan), [Heptagonhust](https://github.com/heptagonhust)(Learning HPC). -->
 <!-- - 🌱 I’m currently learning Cuda, C++, AI Compiler(TVM,MLIR etc) and Adversarial Attack(Backdoor Learning) about Transformer. -->
 <!-- - 👯 I’m collaborating on AI with [Yibin Wang](https://github.com/flyleeee), **A Dalao**!. -->
 <!-- - 🤔 I’m looking for help with Transformer, HPC, TVM, MLIR. -->
 <!-- - 💬 Ask me about AI -->
-- 📫 How to reach me: lry89757@gmail.com
+
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
