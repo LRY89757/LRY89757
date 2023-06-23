@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 - ✨ AI HPC Compiler
 - 👯 Third-year Undergraduate@HUST, intern@Sensetime @UIUC now, working with tvm and llvm backend.
-- 🔭 Looking for chances of phd opportunity of AI Compiler.
+- 🔭 Looking for phd opportunity of AI Compiler.
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io/
 - 📫 How to reach me: lry89757@gmail.com
 <!-- - 🔭 Looking for chances of **Summer research experience in US or Singpore onsite, about DL Compiler**. I can cover the expenses myself, but any assistance in the form of a fund would be greatly appreciated. -->
