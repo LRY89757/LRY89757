@@ -5,7 +5,7 @@
 -->
 <!-- Here are some ideas to get you started: -->
 - ✨ AI HPC Compiler
-- 👯 Third-year Undergraduate@HUST, intern@Sensetime, optimizing the backend of llvm now.
+- 👯 Third-year Undergraduate@HUST, intern@Sensetime @UIUC, work with tvm and llvm backend, pursuing phd opportunity of AI Compiler.
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io/
 - 📫 How to reach me: lry89757@gmail.com
 <!-- - 🔭 Looking for chances of **Summer research experience in US or Singpore onsite, about DL Compiler**. I can cover the expenses myself, but any assistance in the form of a fund would be greatly appreciated. -->
@@ -67,6 +67,7 @@
 <!-- <img width="1145" alt="CoefficientsBroadcasting" src="https://github.com/LRY89757/LRY89757/assets/77330637/d17af0f0-e562-4296-b694-0e47e8a3822a"> -->
 
 
+
 <!-- ![image](https://user-images.githubusercontent.com/77330637/191886080-7fcd7310-0dce-4698-b2db-2792f9fd7465.png) -->
 
 <!-- ![07c8748bef6904a4e02afd8e852cf11](https://user-images.githubusercontent.com/77330637/195068001-54813a34-b64f-4036-946b-1020c3b274a6.jpg) -->
@@ -79,6 +80,10 @@
 <!-- ![image](https://github.com/LRY89757/LRY89757/assets/77330637/e2f5b364-cae2-4317-a5c3-3e2deaf1acda) -->
 
 <!-- ![image](https://github.com/LRY89757/LRY89757/assets/77330637/30d5b91a-e0dd-4435-bf9c-56fcf8c6003f) -->
+
+<!-- ![image](https://github.com/LRY89757/LRY89757/assets/77330637/5e423a64-cdb9-48a3-8539-dd8c2c1a54f6) -->
+
+
 
 
 <!--START_SECTION:waka-->
