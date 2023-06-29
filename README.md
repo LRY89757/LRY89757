@@ -5,7 +5,8 @@
 -->
 <!-- Here are some ideas to get you started: -->
 - ✨ AI HPC Compiler
-- 👯 Third-year Undergraduate@HUST, intern@Sensetime @UIUC now, working with tvm and llvm backend.
+- 👯 Third-year Undergraduate@HUST, intern@Sensetime @UIUC now, mentored by [Jiawei Liu](https://jiawei-site.github.io/)
+- ⚡ working with tvm and llvm backend.
 - 🔭 Looking for phd opportunity of AI Compiler.
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io/
 - 📫 How to reach me: lry89757@gmail.com
