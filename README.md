@@ -151,6 +151,8 @@
 
 <!-- ![image](https://github.com/LRY89757/LRY89757/assets/77330637/1d062ede-10c8-4962-8d92-b37f643bfe68) -->
 
+<!-- ![image](https://github.com/LRY89757/LRY89757/assets/77330637/1b5f18aa-acff-4f4c-b1a6-e5f042775170) -->
+
 
 <!--START_SECTION:waka-->
 
