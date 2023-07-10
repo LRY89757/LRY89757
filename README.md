@@ -5,7 +5,7 @@
 -->
 <!-- Here are some ideas to get you started: -->
 - ✨ AI HPC Compiler
-- 👯 Third-year Undergraduate@HUST, intern@Sensetime @UIUC now, mentored by Wenqiang Yin, [YangChen Yuan](https://github.com/YangChenyuan), [Jiawei Liu](https://jiawei-site.github.io/).
+- 👯 Third-year Undergraduate@HUST, intern@Sensetime @UIUC now, mentored by Wenqiang Yin, [Chenyuan Yang](https://github.com/YangChenyuan), [Jiawei Liu](https://jiawei-site.github.io/).
 - ⚡ working on LLVM IR, Backend and TVM Relax.
 - 🔭 Looking for phd opportunity of AI Compiler.
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io/
