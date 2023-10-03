@@ -5,7 +5,7 @@
 -->
 <!-- Here are some ideas to get you started: -->
 - ✨ AI HPC Compiler
-- 👯 Third-year Undergraduate@HUST
+- 👯 Fourth-year Undergraduate@HUST
 - ⚡ working on LLVM IR, Backend and MLIR, CUDA Programming.
 - 🔭 Looking for phd opportunity of AI HPC Compiler.
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io
