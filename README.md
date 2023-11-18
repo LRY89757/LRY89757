@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 - ✨ AI HPC Compiler
 - 👯 Fourth-year Undergraduate@HUST
-- ⚡ working on LLVM Serving now.
+- ⚡ working on LLM Serving now.
 - 🔭 Looking for phd opportunity of AI HPC Compiler.
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io
 - 📫 How to reach me: lry89757@gmail.com
