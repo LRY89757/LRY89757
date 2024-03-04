@@ -5,9 +5,9 @@
 -->
 <!-- Here are some ideas to get you started: -->
 - ✨ AI HPC Compiler
-- 👯 Fourth-year Undergraduate@HUST
+- 👯 Fourth-year Undergraduate@HUST -> Incoming PhD@UMich
 - ⚡ working on LLM Serving now.
-- 🔭 Looking for phd opportunity of AI HPC Compiler.
+<!-- - 🔭 Looking for phd opportunity of AI HPC Compiler.  -->
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io
 - 📫 How to reach me: lry89757@gmail.com
 <!-- - 🔭 Looking for chances of **Summer research experience in US or Singpore onsite, about DL Compiler**. I can cover the expenses myself, but any assistance in the form of a fund would be greatly appreciated. -->
