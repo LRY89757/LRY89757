@@ -5,7 +5,7 @@
 -->
 <!-- Here are some ideas to get you started: -->
 - ✨ AI HPC Compiler
-- 👯 Fourth-year Undergraduate@HUST -> Incoming PhD@UMich
+- 👯 Fourth-year Undergrad@HUST -> Incoming PhD@UMich
 - ⚡ working on LLM Serving now.
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io
 - 📫 How to reach me: lry89757@gmail.com
