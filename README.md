@@ -4,7 +4,7 @@
 **LRY89757/LRY89757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- Here are some ideas to get you started: -->
-- ✨ MLsys and currently learning Netwrok, Cloud Computing
+- ✨ MLsys and currently learning Network, Cloud Computing
 - 👯 Fourth-year Undergrad@HUST -> Incoming PhD@UMich
 - ⚡ working on LLM Serving now.
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io
