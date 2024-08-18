@@ -5,7 +5,7 @@
 -->
 <!-- Here are some ideas to get you started: -->
 - ✨ MLsys and currently learning Network, Cloud Computing
-- 👯 Fourth-year Undergrad@HUST -> Incoming PhD@UMich
+- 👯 PhD Student @UMich
 - ⚡ working on LLM Serving now.
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io
 - 📫 How to reach me: lry89757@gmail.com
