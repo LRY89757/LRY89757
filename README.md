@@ -5,12 +5,11 @@
 -->
 <!-- Here are some ideas to get you started: -->
 - ✨ MLsys and currently learning Network etc
-- 👯 PhD Student @UMich
-- ⚡ working on LLM Serving now.
+- 👯 PhD Student @UMich now
+<!-- ⚡ working on LLM Serving now. -->
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io
 - 📫 How to reach me: lry89757@gmail.com
-<!-- - 🔭 Looking for phd opportunity of AI HPC Compiler.  -->
-<!-- - 🔭 Looking for chances of **Summer research experience in US or Singpore onsite, about DL Compiler**. I can cover the expenses myself, but any assistance in the form of a fund would be greatly appreciated. -->
+
 
 <!-- - ✨ I'm a third-year undergraduate student(CS) at Huazhong University of Science and Technology. -->
 <!-- - 🔭 I’m currently working on HUST.DIAN.AI(Leader), AIpi(bailan), [Heptagonhust](https://github.com/heptagonhust)(Learning HPC). -->
