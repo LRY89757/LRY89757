@@ -6,10 +6,9 @@
 <!-- Here are some ideas to get you started: -->
 - ✨ MLsys and currently learning Network etc
 - 👯 PhD Student @UMich now
-<!-- ⚡ working on LLM Serving now. -->
 - 🌱 You're welcome to visit my personal page https://lry89757.github.io
 - 📫 How to reach me: lry89757@gmail.com
-
+<!-- ⚡ working on LLM Serving now. -->
 
 <!-- - ✨ I'm a third-year undergraduate student(CS) at Huazhong University of Science and Technology. -->
 <!-- - 🔭 I’m currently working on HUST.DIAN.AI(Leader), AIpi(bailan), [Heptagonhust](https://github.com/heptagonhust)(Learning HPC). -->
