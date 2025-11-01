@@ -4,9 +4,9 @@
 **LRY89757/LRY89757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- Here are some ideas to get you started: -->
-- ✨ MLsys and currently learning Network etc
+<!-- ✨ MLsys and currently learning Network etc -->
 - 👯 PhD Student @UMich now
-- 🌱 You're welcome to visit my personal page https://lry89757.github.io
+- 🌱 You're welcome to visit my personal page https://runyulu.com
 - 📫 How to reach me: lry89757@gmail.com
 <!-- ⚡ working on LLM Serving now. -->
 
